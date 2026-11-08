@@ -1,0 +1,14 @@
+langchain>=1.0.0
+langchain-openai>=1.0.0
+langchain-community>=0.4.0
+langgraph>=1.0.0
+langsmith>=0.4.0
+没有任何其他功能.
+chromadb>=1.0.0
+fastapi>=0.115.0
+uvicorn>=0.32.0
+python-dotenv>=1.0.0 在一个字符串中,
+pydantic>=2.9.0
+Streamlight>=1.40.0
+rank-bm25>=0.2.2
+pypdf>=5.0.0
