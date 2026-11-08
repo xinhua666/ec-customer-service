@@ -1,0 +1,4 @@
+.env
+__pycache__/
+时间/chroma_db/
+data/mock_shop.db
